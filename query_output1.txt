@@ -1,10 +1,10 @@
-Recipe Short Ribs Of Beef has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
-Recipe Stuffed Bell Peppers has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
-Recipe Hot Artichoke Dip has total sweetness 63, total sourness 36, total bitterness 2, total umaminess 1, total saltness 3, total fatness 29, total carbs 25.6, total fat 0.0, total protein 0.0
-Recipe Mexican Grits Casserole (Second) has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
-Recipe All-Bran Rolls has total sweetness 65, total sourness 48, total bitterness 3, total umaminess 1, total saltness 4, total fatness 14, total carbs 22.8, total fat 0.0, total protein 0.5
-Recipe Cinnamon Fruit Biscuit Crunchies has total sweetness 63, total sourness 36, total bitterness 2, total umaminess 1, total saltness 3, total fatness 29, total carbs 25.6, total fat 0.0, total protein 0.0
-Recipe Chicken Divan has total sweetness 41, total sourness 87, total bitterness 9, total umaminess 1, total saltness 2, total fatness 6, total carbs 25.6, total fat 0.0, total protein 0.0
-Recipe Crab Shell has total sweetness 56, total sourness 74, total bitterness 2, total umaminess 1, total saltness 3, total fatness 8, total carbs 25.6, total fat 0.0, total protein 0.0
-Recipe Sweet N' Sour Sausage Balls has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
 Recipe Old Fashioned Fried Cabbage has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
+Recipe Hot Artichoke Dip has total sweetness 63, total sourness 36, total bitterness 2, total umaminess 1, total saltness 3, total fatness 29, total carbs 25.6, total fat 0.0, total protein 0.0
+Recipe Antipasto Pasta Salad has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
+Recipe Easy Carrot Cake has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
+Recipe Chicken Pie Casserole has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
+Recipe Vegetable Stuffed Mushrooms(Low-Fat, Low Calories, Low Cholesterol)   has total sweetness 65, total sourness 48, total bitterness 3, total umaminess 1, total saltness 4, total fatness 14, total carbs 22.8, total fat 0.0, total protein 0.5
+Recipe Scalloped Cod has total sweetness 53, total sourness 81, total bitterness 9, total umaminess 0, total saltness 3, total fatness 8, total carbs 25.6, total fat 0.0, total protein 0.0
+Recipe Coconut Custard Pie has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
+Recipe Salmon Log Or Sandwich Spread has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
+Recipe Mexican Grits Casserole (Second) has total sweetness 34, total sourness 34, total bitterness 1, total umaminess 0, total saltness 2, total fatness 5, total carbs 12.8, total fat 0.0, total protein 0.0
